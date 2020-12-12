@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.emojiWeKnow {
+  font-size: 2rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+input {
+  height: 2rem;
+  width: 75%;
+  padding: 0.5rem;
+  text-align: center;
+  font-size: 2rem;
+}
